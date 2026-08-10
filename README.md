@@ -134,7 +134,7 @@ These measures are documented separately in the `DAX` folder.
 
 ### MobilePulse Analytics Dashboard
 
-![MobilePulse Analytics Dashboard](Screenshots/MobilePulse_Analytics_Dashboard.png)
+![MobilePulse Analytics Dashboard]([Screenshots/MobilePulse_Analytics_Dashboard.png](https://github.com/adiyadav-dotcom/MobilePulse-Analytics/blob/main/MobilePulse-Analytics%20Screenshot.png))
 
 You can also view the dashboard screenshot directly from the **Screenshots** folder in this repository.
 
